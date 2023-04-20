@@ -1,7 +1,7 @@
 # LV 1 zadatak - Osobna stranica
 
 ### LINK: 
-
+https://dreamy-gingersnap-ea7772.netlify.app
 <hr />
 
 ## Opis zadatka
